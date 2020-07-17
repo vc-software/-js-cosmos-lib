@@ -1,0 +1,23 @@
+{
+  "name": "js-cosmos-lib",
+  "version": "1.0.0",
+  "description": "JavaScript Cosmos client library",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "cosmos",
+    "blockchain",
+    "VipCoin"
+  ],
+  "dependencies": {
+    "bech32": "^1.1.4",
+    "bip32": "^2.0.5",
+    "bip39": "^3.0.2",
+    "bitcoinjs-lib": "^5.1.10",
+    "node-fetch": "^2.6.0",
+    "json-stable-stringify-without-jsonify": "^1.0.1",
+    "keccak": "^3.0.0"
+  },
+  "author": "Alex JS",
+  "license": "ISC"
+}
